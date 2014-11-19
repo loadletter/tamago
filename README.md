@@ -1,19 +1,11 @@
 Tamago - TamaTown for modern browsers
 =====================================
 
-Requirements
-------------
- * node.js v10.0.x
+A javascript tamagotchi emulator.
 
-Installation
-------------
+Click here to run: https://loadletter.github.com/tamago/web/index.html
 
- 	npm install -g grunt-cli
- 	npm install
+Supported browsers: Firefox 24+, Chrome.
 
-Usage
------
-	
-	grunt dev
-	open http://localhost:9001
 
+I don't own anything, this is just a ready-to-use version of: https://github.com/asterick/tamago
