@@ -2238,7 +2238,7 @@ function start(bios) {
 }
 
 function Tamago(element) {
-	var u8 = new Uint8Array(this.bios),
+	var u8 = new Uint8Array(tamagotchi.system.prototype.bios),
 		that = this;
 
 	this.system = new tamagotchi.system();
