@@ -3,7 +3,7 @@ Tamago - TamaTown for modern browsers
 
 A javascript tamagotchi emulator.
 
-Click here to run: https://loadletter.github.com/tamago/web/index.html
+Click here to run: http://loadletter.github.io/tamago/web/index.html
 
 Supported browsers: Firefox 24+, Chrome.
 
